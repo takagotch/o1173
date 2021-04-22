@@ -1,6 +1,6 @@
-### [Fashion AblellcAwards | メディア運営](https://takagotch.github.io/page469/) 
+### [Fashion AblellcAwards | メディア運営](https://takagotch.github.io/page469/blog) 
 ---
-https://takagotch.github.io/page469/
+https://takagotch.github.io/page469/blog
 
 
 
