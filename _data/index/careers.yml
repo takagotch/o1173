@@ -1,0 +1,32 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Activate-d
+    i18n: company_a
+  desc:
+    detail: I worked at Activate-d ...
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2020
+    i18n: company_a_date
+  job:
+    detail: CTO, Full Stack Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Tkvtv
+    i18n: company_b
+  desc:
+    detail: I worked at Tkvtv also...
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2020
+    i18n: company_b_date
+  job:
+    detail: CEO, Merketing & Consulting, Fictional character
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
