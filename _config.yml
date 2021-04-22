@@ -1,8 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: TKVTV
-description: 取引量No.1！*当社比
+title: Fashion AblellcAwards
+description: ヒットが見えるファッションを中心にライフスタイルを掲載する情報サイト。
+
 keywords: Tkvtv,Takagotch,blog,crypto,officialpage,gh-pages
 baseurl:  /page65 # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url:      https://takagotch.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
